@@ -2,7 +2,7 @@
 
 > **A production-grade autonomous trading system built to learn ML deployment, agentic AI architecture, and evidence-based system investigation — not to beat the market.**
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![ML](https://img.shields.io/badge/ML-LSTM%20%2B%20XGBoost-orange)
 ![Status](https://img.shields.io/badge/Status-Live%20Production-brightgreen)
