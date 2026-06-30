@@ -1,0 +1,50 @@
+# ── Secrets & credentials (NEVER commit) ───────────────────────────
+*.env
+.env*
+config.yaml
+config.yml
+*credentials*
+*secret*
+*password*
+*.key
+*.pem
+*token*
+
+# ── Operational state & logs (private) ─────────────────────────────
+*.log
+*.jsonl
+state/
+logs/
+*_state/
+*_logs/
+kv.json
+metrics.json
+*.bak
+*.bak_*
+
+# ── Data ───────────────────────────────────────────────────────────
+*.parquet
+*.csv
+data/
+datasets/
+*.h5
+*.keras
+*.model
+*.pkl
+*.joblib
+
+# ── Python ─────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ── OS / editor ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

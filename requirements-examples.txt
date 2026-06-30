@@ -1,0 +1,7 @@
+# Dependencies for the illustrative examples in src/examples/
+# (The operational system has a larger dependency set; these cover the demos.)
+
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+shap>=0.44
